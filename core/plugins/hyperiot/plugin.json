@@ -1,0 +1,8 @@
+{
+    "name": "HyperIoT Chatbot plugin",
+    "version": "1.0.0",
+    "description": "plugin used to integrate Cheshire Cat chatbot inside HyperIoT platform.",
+    "author_name": "Alessio Serra",
+    "tags": "test, hyot, python, machineLearning, chatbot",
+    "thumb": "./logo.png"
+}
